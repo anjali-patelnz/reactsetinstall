@@ -21,7 +21,7 @@ export default function App() {
       <header className="App-header">
         <Loader
           type="Puff"
-          color="#00BFFF"
+          color="blue"
           height={100}
           width={100}
           timeout={3000} //3 secs
